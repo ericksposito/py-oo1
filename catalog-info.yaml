@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: py-oo1
+  annotations:
+    github.com/project-slug: ericksposito/py-oo1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: ericksposito
